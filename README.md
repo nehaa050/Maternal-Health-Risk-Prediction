@@ -27,6 +27,9 @@ The dataset is Retrieved from 'Kaggle'
 
 The dataset can be used for various purposes as following:
 
+<img width="1261" height="516" alt="image" src="https://github.com/user-attachments/assets/41a47ec4-522f-46c1-affa-665082926b6e" />
+
+
 - Exploratory data analysis : To understand the distribution and relationships between different health parameters.
 
 - Building predictive models : To predict health risk based on demographic and health-related features.

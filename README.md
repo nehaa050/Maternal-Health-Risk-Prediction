@@ -1,5 +1,6 @@
 # Maternal-Health-Risk-Prediction
-![1715196447435.jpeg]()
+<img width="428" height="401" alt="image" src="https://github.com/user-attachments/assets/1a432161-5bb2-4bb2-95ce-df38e2e9da5a" />
+
 
 An overview of the dataset:
 
